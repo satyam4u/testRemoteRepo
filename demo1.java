@@ -12,6 +12,8 @@ public class demo1 {
 
     int multiply(int x, int y) {
         System.out.println("Multiply function");
+        System.out.println("Multiply function2");
+
         return x*y;
     }
 
